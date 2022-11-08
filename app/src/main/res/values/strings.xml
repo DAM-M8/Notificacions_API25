@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notificacio</string>
+    <string name="titol_notificacio">Trucant</string>
+    <string name="descripcio_notificacio">T\'han trucat</string>
+</resources>
